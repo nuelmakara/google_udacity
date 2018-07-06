@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<!--[if IE 8 ]> <html lang="en-US" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en-US" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-US" class="no-ie no-js"> <!--<![endif]-->
+
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ALCwithGoogle3Hospital</title>
+</head>
+<!--
+<link rel="pingback" href="http://www.kingscarehospitals.com/xmlrpc.php" />
+	
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Kingscare Hospital Ltd &raquo; Feed" href="http://www.kingscarehospitals.com/?feed=rss2" />
+<link rel="alternate" type="application/rss+xml" title="Kingscare Hospital Ltd &raquo; Comments Feed" href="http://www.kingscarehospitals.com/?feed=comments-rss2" />
+<link rel="alternate" type="application/rss+xml" title="Kingscare Hospital Ltd &raquo; Home &#8211; new Comments Feed" href="http://www.kingscarehospitals.com/?feed=rss2&#038;page_id=7832" />
+	<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.kingscarehospitals.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.12"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='validate-engine-css-css'  href='http://www.kingscarehospitals.com/wp-content/plugins/wysija-newsletters/css/validationEngine.jquery.css?ver=2.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.kingscarehospitals.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.kingscarehospitals.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.1.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='timetable_sf_style-css'  href='http://www.kingscarehospitals.com/wp-content/plugins/timetable/style/superfish.css?ver=4.6.12' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_style-css'  href='http://www.kingscarehospitals.com/wp-content/plugins/timetable/style/style.css?ver=4.6.12' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_event_template-css'  href='http://www.kingscarehospitals.com/wp-content/plugins/timetable/style/event_template.css?ver=4.6.12' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_responsive_style-css'  href='http://www.kingscarehospitals.com/wp-content/plugins/timetable/style/responsive.css?ver=4.6.12' type='text/css' media='all' />
+<link rel='stylesheet' id='timetable_font_lato-css'  href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700&#038;ver=4.6.12' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//www.kingscarehospitals.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//www.kingscarehospitals.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.6.8' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//www.kingscarehospitals.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='wpv-gfonts-css'  href='//fonts.googleapis.com/css?family=Asap%3Abold%2Cnormal%2C300%7CDroid+Sans%3Aitalic%2Cnormal%2Cbold&#038;subset=latin&#038;ver=14' type='text/css' media='all' />
+<link rel='stylesheet' id='front-magnific-popup-css'  href='http://www.kingscarehospitals.com/wp-content/themes/health-center/wpv_theme/assets/css/magnific.css?ver=4.6.12' type='text/css' media='all' />
+<link rel='stylesheet' id='front-all-css'  href='http://www.kingscarehospitals.com/wp-content/themes/health-center/cache/all.css?ver=1508429911' type='text/css' media='all' />
+<style id='front-all-inline-css' type='text/css'>
+.page-id-1849 .page-header .title {
+padding-top: 60px;
+}
+.clearboth { clear: both; }
+
+
+/* Welcome page only! */
+.screens .linkarea img{
+	box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.10);
+	transition: all .3s ease;
+	border-radius: 2px;
+}
+
+.screens .linkarea img:hover {
+	box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.16);
+	margin-top: -10px;
+}
+.page-id-7948 #style-switcher{
+display: none;
+}
+
+.w-header {
+	text-align: center;
+}
+.w-header .grid-1-5{
+	display: inline-block;
+	float: none;
+	vertical-align: top:
+}
+.w-header h3{
+	margin: 0px;
+	font-weight: 600;
+	color: #fff;
+}
+.w-header p{
+	margin-top: 0.5em
+}
+.w-header .sep-3{
+	opacity: 0.2;
+}
+.w-header h1, .w-header h4, .w-header p, .w-white{
+	color: #fff !important;
+}
+
+body.page-id-7948.no-header-sidebars.no-page-header .page-wrapper{
+	padding-top: 0px;
+}
+
+.page-id-7948 h2{
+	font-size: 3em;
+	line-height: 1em;
+	font-weight: 100;
+	color: #7C8A8D;
+	margin-bottom: 10px;
+}
+
+.big-text {
+	font-size: 1.3em;
+	line-height: 1.2em;
+	font-weight: 100
+}
+
+.plugin-logos img{
+	padding: 0px 20px;
+	display: inline-block;
+}
+
+
+.more-testimonials{
+	border: solid 1px #EDEDED;
+	text-align: center;
+	padding: 20px 30px;
+	border: 1px solid #D9D9D9;
+}
+.more-testimonials h3{
+	margin-bottom: 9px;
+	margin-top: 6px;
+}
+.more-testimonials p{
+	margin-top: 0px;
+}
+.dark-bg h2{
+	color: #fff !important;
+}
+
+@media (max-width: 958px){
+.twitter-button{
+	margin-bottom: 20px;
+}
+body.page-id-7948 .row{
+	margin-bottom: 0px;
+}
+.w-hide-bg{
+	padding:0px !important;
+	background-image: none !important;
+}
+.dark-bg{
+	background-image: none !important;
+}
+
+.w-mobile-hide{
+	display: none;
+}
+.w-hide-bg .push{
+	display: none;
+}
+}
+</style>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.1.6'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.1.6'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/timetable/js/timetable.js?ver=4.6.12'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/vamtam-love-it//includes/js/jquery.cookie.js?ver=4.6.12'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var love_it_vars = {"ajaxurl":"http:\/\/www.kingscarehospitals.com\/wp-admin\/admin-ajax.php","nonce":"26c9db2869","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/vamtam-love-it//includes/js/love-it.js?ver=4.6.12'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/wp-retina-2x/js/picturefill.min.js?ver=3.0.2'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/themes/health-center/vamtam/assets/js/modernizr.min.js?ver=4.6.12'></script>
+<link rel='https://api.w.org/' href='http://www.kingscarehospitals.com/?rest_route=/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.kingscarehospitals.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.kingscarehospitals.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.12" />
+<meta name="generator" content="WooCommerce 2.6.8" />
+<link rel="canonical" href="http://www.kingscarehospitals.com/" />
+<link rel='shortlink' href='http://www.kingscarehospitals.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.kingscarehospitals.com/?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fwww.kingscarehospitals.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.kingscarehospitals.com/?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fwww.kingscarehospitals.com%2F&#038;format=xml" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.1.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/cropped-banner1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/cropped-banner1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/cropped-banner1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/cropped-banner1-270x270.jpg" />
+</head>-->
+<body class="home page page-id-7832 page-child parent-pageid-11 page-template-default layout-full full pagination-load-more sticky-header-type-normal wpv-not-scrolled no-page-header cbox-share-twitter cbox-share-facebook cbox-share-googleplus cbox-share-pinterest has-header-slider no-header-sidebars responsive-layout no-breadcrumbs no-slider-button-thumbnails sticky-header no-page-bottom-padding">
+	<span id="top"></span>
+	<div class="wpv-splash-screen">
+			<div class="wpv-splash-screen-logo"></div>
+		</div>	<div id="page" class="main-container">
+
+		<div class="fixed-header-box">
+	<header class="main-header layout-logo-menu">
+			<div id="top-nav-wrapper">
+				<nav class="top-nav menu-social">
+			<div class="limit-wrapper top-nav-inner">
+				<div class="row">
+					<div class="row">
+						<div class="grid-1-2 menu-wrapper">
+	<div class="menu-top-menu-container"><ul id="menu-top-menu" class="menu"><li id="menu-item-7954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7954"><a href="http://www.kingscarehospitals.com/?page_id=39"><span>Sitemap</span></a></li>
+<li id="menu-item-2169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2169"><a href="http://"><span>English</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-2170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2170"><a href="http://£"><span>Deutsch (German)</span></a></li>
+	<li id="menu-item-2171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2171"><a href="http://@"><span>Espanol (Spanish)</span></a></li>
+</ul>
+</li>
+</ul></div></div><div class="grid-1-2" id="top-nav-social">
+			<span>Follow us on: </span>
+									<a href="https://web.facebook.com/KingsCareHospital/" target="_blank"><span class='icon shortcode theme ' style=''>&#57387;</span></a>
+												<a href="#" target="_blank"><span class='icon shortcode  ' style=''>&#58159;</span></a>
+												<a href="#" target="_blank"><span class='icon shortcode  ' style=''>&#58209;</span></a>
+												<a href="#" target="_blank"><span class='icon shortcode  ' style=''>&#58150;</span></a>
+																																			</div>					</div>
+				</div>
+			</div>
+		</nav>
+			</div>
+		<div class="limit-wrapper">
+	<div class="header-contents header-content-wrapper">
+		<div class="first-row">
+			<div class="logo-wrapper">
+	<a href="#" id="mp-menu-trigger" class="icon-b" data-icon="&#57801;">Open/Close Menu</a>
+		<a href="http://www.kingscarehospitals.com" title="Kingscare Hospital Ltd" class="logo " style="min-width:147px">			<img src="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/logo.png" alt="Kingscare Hospital Ltd" class="normal-logo" height="33" style="padding: 21px 0; max-height: 33px;"/>
+			</a>
+		<div class="mobile-logo-additions">
+								<a class="vamtam-cart-dropdown-link no-dropdown icon theme" href="http://www.kingscarehospitals.com/?page_id=6975">
+				<span class="icon theme">&#57453;</span>
+				<span class="products cart-empty">0</span>
+			</a>
+							<button class="header-search icon wpv-overlay-search-trigger">&#57645;</button>
+			</div>
+</div>		</div>
+
+		<div class="second-row has-search">
+			<div id="menus">
+				<nav id="main-menu">
+		<a href="#main" title="Skip to content" class="visuallyhidden">Skip to content</a>
+	<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-8003" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7832 current_page_item menu-item-8003"><a href="http://www.kingscarehospitals.com/"><span>Home</span></a></li>
+<li id="menu-item-7953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7953"><a href="http://www.kingscarehospitals.com/?page_id=29"><span>About us</span></a></li>
+<li id="menu-item-7990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7990"><a href="http://www.kingscarehospitals.com/?page_id=7043"><span>Departments</span></a>
+<div class='sub-menu-wrapper'><ul class="sub-menu">
+	<li id="menu-item-8089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8089"><a href="http://www.kingscarehospitals.com/?page_id=8084"><span>Ct scan</span></a></li>
+	<li id="menu-item-8090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8090"><a href="http://www.kingscarehospitals.com/?page_id=8082"><span>Ultra Sound</span></a></li>
+	<li id="menu-item-8092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8092"><a href="http://www.kingscarehospitals.com/?page_id=8078"><span>Mammogram</span></a></li>
+	<li id="menu-item-8093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8093"><a href="http://www.kingscarehospitals.com/?page_id=8076"><span>Dental</span></a></li>
+	<li id="menu-item-8094" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8094"><a href="http://www.kingscarehospitals.com/?page_id=8074"><span>MRI</span></a></li>
+	<li id="menu-item-8095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8095"><a href="http://www.kingscarehospitals.com/?page_id=8072"><span>EEG and adult intensive care unit</span></a></li>
+	<li id="menu-item-8096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8096"><a href="http://www.kingscarehospitals.com/?page_id=8070"><span>Laboratory</span></a></li>
+	<li id="menu-item-8097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8097"><a href="http://www.kingscarehospitals.com/?page_id=8068"><span>Physiotherapy</span></a></li>
+	<li id="menu-item-8098" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8098"><a href="http://www.kingscarehospitals.com/?page_id=8066"><span>Eye clinic</span></a></li>
+	<li id="menu-item-8099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8099"><a href="http://www.kingscarehospitals.com/?page_id=8059"><span>Pharmacy</span></a></li>
+</ul></div>
+</li>
+<li id="menu-item-8100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8100"><a href="#"><span>Medical services</span></a>
+<div class='sub-menu-wrapper'><ul class="sub-menu">
+	<li id="menu-item-8131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8131"><a href="http://www.kingscarehospitals.com/?page_id=8126"><span>Dialysis Unit</span></a></li>
+	<li id="menu-item-8132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8132"><a href="http://www.kingscarehospitals.com/?page_id=8124"><span>Ophthalmic Care and Eye Clinic</span></a></li>
+	<li id="menu-item-8133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8133"><a href="http://www.kingscarehospitals.com/?page_id=8122"><span>Pharmaceutical</span></a></li>
+	<li id="menu-item-8134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8134"><a href="http://www.kingscarehospitals.com/?page_id=8120"><span>Radiological</span></a></li>
+	<li id="menu-item-8135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8135"><a href="http://www.kingscarehospitals.com/?page_id=8118"><span>Laboratory</span></a></li>
+	<li id="menu-item-8136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8136"><a href="http://www.kingscarehospitals.com/?page_id=8116"><span>Paediatrics</span></a></li>
+	<li id="menu-item-8137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8137"><a href="http://www.kingscarehospitals.com/?page_id=8112"><span>Surgeries</span></a></li>
+	<li id="menu-item-8138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8138"><a href="http://www.kingscarehospitals.com/?page_id=8106"><span>Family Medicine and specialized clinics</span></a></li>
+	<li id="menu-item-8139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8139"><a href="http://www.kingscarehospitals.com/?page_id=8102"><span>General Health</span></a></li>
+	<li id="menu-item-8130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8130"><a href="http://www.kingscarehospitals.com/?page_id=8128"><span>Other services</span></a></li>
+</ul></div>
+</li>
+<li id="menu-item-7969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7969"><a href="http://www.kingscarehospitals.com/?page_id=1849"><span>Facility tour</span></a></li>
+<li id="menu-item-8213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8213"><a href="http://www.kingscarehospitals.com/?page_id=8211"><span>Gallery</span></a></li>
+<li id="menu-item-8002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8002"><a href="http://www.kingscarehospitals.com/?page_id=7580"><span>Testimonials</span></a></li>
+<li id="menu-item-8042" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8042"><a href="#"><span>Branches</span></a>
+<div class='sub-menu-wrapper'><ul class="sub-menu">
+	<li id="menu-item-8219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8219"><a href="http://www.kingscarehospitals.com/?page_id=8214"><span>Kubwa</span></a></li>
+	<li id="menu-item-8218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8218"><a href="http://www.kingscarehospitals.com/?page_id=8216"><span>Maraba</span></a></li>
+</ul></div>
+</li>
+<li id="menu-item-7998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7998"><a href="http://www.kingscarehospitals.com/?page_id=31"><span>Contact us</span></a></li>
+</ul></div></nav>			</div>
+		</div>
+
+		<div class="cart-dropdown hidden">
+	<div class="cart-dropdown-inner">
+		<a class="vamtam-cart-dropdown-link icon theme" href="#">
+			<span class="icon theme">&#57453;</span>
+			<span class="products cart-empty">...</span>
+		</a>
+		<div class="widget woocommerce widget_shopping_cart">
+			<div class="widget_shopping_cart_content"></div>
+		</div>
+	</div>
+</div>
+					<div class="search-wrapper">
+				
+<button class="header-search icon wpv-overlay-search-trigger">&#57645;</button>			</div>
+		
+			</div>
+</div>	</header>
+
+	</div><!-- / .fixed-header-box -->
+<div class="shadow-bottom"></div>
+		
+		<div class="boxed-layout">
+			<div class="pane-wrapper clearfix">
+				<header class="header-middle row normal type-slider" style="">
+			<div id="header-slider-container" class="revslider">
+			<div class="header-slider-wrapper">
+				<link href=&#039;http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&#039; rel=&#039;stylesheet&#039; type=&#039;text/css&#039;><link href="http://fonts.googleapis.com/css?family=Raleway:900,400" rel="stylesheet" property="stylesheet" type="text/css" media="all" />
+<div id="rev_slider_2_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" style="margin:0px auto;padding:0px;margin-top:0px;margin-bottom:0px;">
+<!-- START REVOLUTION SLIDER 5.1.6 fullwidth mode -->
+	<div id="rev_slider_2_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.1.6">
+<ul>	<!-- SLIDE  -->
+	<li data-index="rs-3" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/slide-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Services" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/slide.jpg"  alt=""  width="2568" height="1221" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption FatRounded   tp-resizeme" 
+			 id="slide-3-layer-1" 
+			 data-x="293" 
+			 data-y="30" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+				data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;"
+				data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(0, 0, 0, 1.00);"
+ 
+			 data-transform_in="opacity:0;s:300;e:Power2.easeInOut;" 
+			 data-transform_out="opacity:0;s:300;s:300;" 
+			data-start="500" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			
+			style="z-index: 5; white-space: nowrap;cursor:pointer;">WE CARE  ABOUT YOUR HEALTH 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-5" data-transition="fade" data-slotamount="7" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="600"  data-thumb="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/slide1-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Departments" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/slide1.jpg"  alt=""  width="1500" height="783" data-bgposition="left top" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+
+		<!-- LAYER NR. 1 -->
+		<div class="tp-caption Furniture-Plus  " 
+			 id="slide-5-layer-2" 
+			 data-x="290" 
+			 data-y="8" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:0;y:0;z:0;rX:90;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:700;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="1600" 
+			data-splitin="chars" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			data-elementdelay="0.05" 
+			 data-end="8700" 
+			data-captionhidden="on" 
+
+			style="z-index: 5; white-space: nowrap; font-size: 20px;">Departments 
+		</div>
+
+		<!-- LAYER NR. 2 -->
+		<div class="tp-caption FatRounded   tp-resizeme" 
+			 id="slide-5-layer-4" 
+			 data-x="273" 
+			 data-y="41" 
+						data-width="['177']"
+			data-height="['431']"
+			data-transform_idle="o:1;"
+				data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Linear.easeNone;"
+				data-style_hover="c:rgba(255, 255, 255, 1.00);bg:rgba(0, 0, 0, 1.00);"
+ 
+			 data-transform_in="opacity:0;s:500;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="2300" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			 data-end="8700" 
+			data-captionhidden="on" 
+
+			style="z-index: 6; min-width: 177px; max-width: 177px; max-width: 431px; max-width: 431px; white-space: normal; font-size: 20px; font-weight: 400;cursor:pointer;">Our Ward</br>
+Ct-Scan</br>
+Ultra Sound</br>
+IVF</br>
+Mammogram</br>
+Dental</br>
+MRI</br>
+Intensive Care</br>
+Laboratory</br>
+Physiotherapy</br>
+Eye Clinic
+ 
+		</div>
+
+		<!-- LAYER NR. 3 -->
+		<div class="tp-caption   tp-resizeme" 
+			 id="slide-5-layer-8" 
+			 data-x="455" 
+			 data-y="376" 
+						data-width="['auto']"
+			data-height="['auto']"
+			data-transform_idle="o:1;"
+ 
+			 data-transform_in="x:0;y:0;z:0;rX:0;rY:0;rZ:0;sX:0;sY:0;skX:0;skY:0;opacity:0;s:1000;e:Power3.easeInOut;" 
+			 data-transform_out="auto:auto;s:300;" 
+			data-start="3700" 
+			data-splitin="none" 
+			data-splitout="none" 
+			data-responsive_offset="on" 
+
+			 data-end="8700" 
+
+			style="z-index: 7; white-space: nowrap; font-size: px; line-height: 22px; font-weight: 400; color: rgba(255, 255, 255, 1.00);"><a href="/departments/" class="button vamtam-button accent1  button-border hover-accent1"><span class="btext"><b>Read More &rarr;</b></span></a> 
+		</div>
+	</li>
+	<!-- SLIDE  -->
+	<li data-index="rs-9" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/slide2-100x50.jpg"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+		<!-- MAIN IMAGE -->
+		<img src="http://www.kingscarehospitals.com/wp-content/uploads/2016/10/slide2.jpg"  alt=""  width="1500" height="691" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<!-- LAYERS -->
+	</li>
+</ul>
+<div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>	</div>
+<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss=".tp-caption.Furniture-Plus,.Furniture-Plus{color:rgba(230,207,163,1.00);font-size:20px;line-height:20px;font-weight:400;font-style:normal;font-family:\"Raleway\";padding:6px 7px 4px 7px;text-decoration:none;background-color:rgba(255,255,255,1.00);border-color:transparent;border-style:none;border-width:0px;border-radius:30px 30px 30px 30px;text-shadow:none;box-shadow:rgba(0,0,0,0.1) 0 1px 3px}.tp-caption.FatRounded,.FatRounded{color:rgba(255,255,255,1.00);font-size:30px;line-height:30px;font-weight:900;font-style:normal;font-family:Raleway;padding:20px 22px 20px 25px;text-decoration:none;text-align:left;background-color:rgba(0,0,0,0.50);border-color:rgba(211,211,211,1.00);border-style:none;border-width:0px;border-radius:50px 50px 50px 50px;text-shadow:none}.tp-caption.FatRounded:hover,.FatRounded:hover{color:rgba(255,255,255,1.00);text-decoration:none;background-color:rgba(0,0,0,1.00);border-color:rgba(211,211,211,1.00);border-style:none;border-width:0px;border-radius:50px 50px 50px 50px;cursor:pointer}";
+				if(htmlDiv) {
+					htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+				}else{
+					var htmlDiv = document.createElement("div");
+					htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
+					document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
+				}
+			</script>
+		<script type="text/javascript">
+						/******************************************
+				-	PREPARE PLACEHOLDER FOR SLIDER	-
+			******************************************/
+
+			var setREVStartSize=function(){
+				try{var e=new Object,i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+					e.c = jQuery('#rev_slider_2_1');
+					e.gridwidth = [1180];
+					e.gridheight = [500];
+							
+					e.sliderLayout = "fullwidth";
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})
+					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)};
+			};
+						
+				
+			setREVStartSize();
+			function revslider_showDoubleJqueryError(sliderID) {
+					var errorMessage = "Revolution Slider Error: You have some jquery.js library include that comes after the revolution files js include.";
+					errorMessage += "<br> This includes make eliminates the revolution slider libraries, and make it not work.";
+					errorMessage += "<br><br> To fix it you can:<br>&nbsp;&nbsp;&nbsp; 1. In the Slider Settings -> Troubleshooting set option:  <strong><b>Put JS Includes To Body</b></strong> option to true.";
+					errorMessage += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jquery.js include and remove it.";
+					errorMessage = "<span style='font-size:16px;color:#BC0C06;'>" + errorMessage + "</span>";
+						jQuery(sliderID).show().html(errorMessage);
+				}
+						var tpj=jQuery;
+			tpj.noConflict();
+			var revapi2;
+			tpj(document).ready(function() {
+				if(tpj("#rev_slider_2_1").revolution == undefined){
+					revslider_showDoubleJqueryError("#rev_slider_2_1");
+				}else{
+					revapi2 = tpj("#rev_slider_2_1").show().revolution({
+						sliderType:"standard",
+jsFileLocation:"//www.kingscarehospitals.com/wp-content/plugins/revslider/public/assets/js/",
+						sliderLayout:"fullwidth",
+						dottedOverlay:"none",
+						delay:9000,
+						navigation: {
+							keyboardNavigation:"off",
+							keyboard_direction: "horizontal",
+							mouseScrollNavigation:"off",
+							onHoverStop:"on",
+							touch:{
+								touchenabled:"on",
+								swipe_threshold: 0.7,
+								swipe_min_touches: 1,
+								swipe_direction: "horizontal",
+								drag_block_vertical: false
+							}
+							,
+							arrows: {
+								style:"hesperiden",
+								enable:true,
+								hide_onmobile:false,
+								hide_onleave:true,
+								hide_delay:200,
+								hide_delay_mobile:1200,
+								tmp:'',
+								left: {
+									h_align:"left",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								},
+								right: {
+									h_align:"right",
+									v_align:"center",
+									h_offset:20,
+									v_offset:0
+								}
+							}
+						},
+						viewPort: {
+							enable:true,
+							outof:"wait",
+							visible_area:"80%"
+						},
+						visibilityLevels:[1240,1024,778,480],
+						gridwidth:1180,
+						gridheight:500,
+						lazyType:"none",
+						shadow:0,
+						spinner:"spinner2",
+						stopLoop:"on",
+						stopAfterLoops:1,
+						stopAtSlide:1,
+						shuffle:"off",
+						autoHeight:"off",
+						disableProgressBar:"on",
+						hideThumbsOnMobile:"on",
+						hideSliderAtLimit:0,
+						hideCaptionAtLimit:1271,
+						hideAllCaptionAtLilmit:0,
+						debugMode:false,
+						fallbacks: {
+							simplifyAll:"off",
+							nextSlideOnWindowFocus:"off",
+							disableFocusListener:false,
+						}
+					});
+				}
+			});	/*ready*/
+		</script>
+		<script>
+					var htmlDivCss = ' #rev_slider_2_1_wrapper .tp-loader.spinner2{ background-color: #FFFFFF !important; } ';
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+					</script>
+					<script>
+					var htmlDivCss = unescape(".hesperiden.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3A%23000%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A40px%3B%0A%09height%3A40px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%20%20%20%20border-radius%3A%2050%25%3B%0A%7D%0A.hesperiden.tparrows%3Ahover%20%7B%0A%09background%3A%23000%3B%0A%7D%0A.hesperiden.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A20px%3B%0A%09color%3A%23fff%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%2040px%3B%0A%09text-align%3A%20center%3B%0A%7D%0A.hesperiden.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82c%22%3B%0A%20%20%20%20margin-left%3A-3px%3B%0A%7D%0A.hesperiden.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce82d%22%3B%0A%20%20%20%20margin-right%3A-3px%3B%0A%7D%0A");
+					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+					if(htmlDiv) {
+						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+					}
+					else{
+						var htmlDiv = document.createElement('div');
+						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+					}
+				  </script>
+				</div><!-- END REVOLUTION SLIDER -->			</div>
+		</div>
+		</header>				<div id="main-content">
+										<!-- #main (do not remove this comment) -->
+					<div id="main" role="main" class="wpv-main layout-full">
+												<div class="limit-wrapper">
+
+	<div class="row page-wrapper">
+		
+		<article id="post-7832" class="full post-7832 page type-page status-publish hentry">
+						<div class="page-content">
+				<div class="row "><div class="wpv-grid grid-1-1 move-into-slider wpv-first-level first unextended" style="padding-top:0px;padding-bottom:70px" id="wpv-column-24589aa4f13ab3dd709ab470540b203d" ><div class="row "><div class="wpv-grid grid-1-4  first unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-e079ca2f4b1592d435124a8e2b03da02" ><style scoped>#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed{background:#de0b0b;}#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed p,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed .sep-text h2.regular-title-wrapper,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed .text-divider-double,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed .sep-text .sep-text-line,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed .sep,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed .sep-2,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed .sep-3,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed td,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed th,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed a,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .closed caption{color:#feeaea;}#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open{background:#de0b0b;}#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open p,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open .sep-text h2.regular-title-wrapper,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open .text-divider-double,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open .sep-text .sep-text-line,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open .sep,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open .sep-2,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open .sep-3,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open td,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open th,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open a,#wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27 .open caption{color:#feeaea;}</style>
+<div class="services has-more " id="wpv-expandable-fa18e0dc9bced3a65484bf8182f46a27">
+	<div class="closed services-inside">
+		<div class="services-content-wrapper clearfix">
+			
+			 <div class="push" style='height:10px'></div>
+<span class='icon shortcode theme ' style='font-size:26px !important;color:#B5E0FC;'>&#57530;</span>
+<div class="push" style='height:10px'></div>
+<h3><span style="color: #fff;">Working Time</span></h3>
+<div class="push" style='height:8px'></div>
+<table>
+<tbody>
+<tr>
+<td>Monday &#8211; Friday</td>
+<td style="text-align: center;">  =</td>
+<td style="text-align: right;">8am &#8211; 10pm</td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td>  =</td>
+<td style="text-align: right;">8am &#8211; 10pm</td>
+</tr>
+<tr>
+<td>Sunday</td>
+<td>  =</td>
+<td style="text-align: right;">8am &#8211; 10pm</td>
+</tr>
+</tbody>
+</table>
+<div class="push" style='height:15px'></div>
+
+		</div>
+	</div>
+	<div class="open services-inside">
+		<div class="services-content-wrapper">
+			<div class="row">
+				
+<a href="#" target="_self" style='font-size: 14px;' class="button vamtam-button accent8  button-border hover-accent1 "><span class="btext">Learn more â†’</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class="wpv-grid grid-1-4  unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-fafc88570018aa55428e0bf137897e5a" ><style scoped>#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed{background:#de0b0b;}#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed p,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed .sep-text h2.regular-title-wrapper,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed .text-divider-double,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed .sep-text .sep-text-line,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed .sep,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed .sep-2,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed .sep-3,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed td,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed th,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed a,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .closed caption{color:#feeaea;}#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open{background:#de0b0b;}#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open p,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open .sep-text h2.regular-title-wrapper,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open .text-divider-double,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open .sep-text .sep-text-line,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open .sep,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open .sep-2,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open .sep-3,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open td,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open th,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open a,#wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d .open caption{color:#feeaea;}</style>
+<div class="services has-more " id="wpv-expandable-1dfe16848f76d938a28ae7cb1fb27b3d">
+	<div class="closed services-inside">
+		<div class="services-content-wrapper clearfix">
+			
+			 <div class="push" style='height:10px'></div>
+<span class='icon shortcode theme ' style='font-size:26px !important;color:#B5E0FC;'>&#57520;</span>
+<div class="push" style='height:10px'></div>
+<h3><span style="color: #fff;">Patient Portal</span></h3>
+<div class="push" style='height:15px'></div>
+This is for our patient to check their medical report, Laboratory test etc at the comfort of their home. A username and password will be given to you at the hospital to login. Click here<br />
+<div class="push" style='height:25px'></div>
+
+		</div>
+	</div>
+	<div class="open services-inside">
+		<div class="services-content-wrapper">
+			<div class="row">
+				
+<a href="/timetable/" target="_self" style='font-size: 14px;' class="button vamtam-button accent8  button-border hover-accent1 "><span class="btext">Click here to login â†’</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class="wpv-grid grid-1-4  unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-59e90e1a719f417ffae5f4303472293e" ><style scoped>#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed{background:#de0b0b;}#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed p,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed .sep-text h2.regular-title-wrapper,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed .text-divider-double,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed .sep-text .sep-text-line,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed .sep,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed .sep-2,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed .sep-3,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed td,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed th,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed a,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .closed caption{color:#feeaea;}#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open{background:#de0b0b;}#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open p,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open .sep-text h2.regular-title-wrapper,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open .text-divider-double,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open .sep-text .sep-text-line,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open .sep,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open .sep-2,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open .sep-3,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open td,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open th,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open a,#wpv-expandable-b19f6378eb016aee836ea5f39f781560 .open caption{color:#feeaea;}</style>
+<div class="services has-more " id="wpv-expandable-b19f6378eb016aee836ea5f39f781560">
+	<div class="closed services-inside">
+		<div class="services-content-wrapper clearfix">
+			
+			 <div class="push" style='height:10px'></div>
+<span class='icon shortcode theme ' style='font-size:26px !important;color:#B5E0FC;'>&#57382;</span>
+<div class="push" style='height:10px'></div>
+<h3><span style="color: #fff;">Appointments</span></h3>
+<div class="push" style='height:15px'></div>
+Book an appointment with our doctors in advance before coming to the hospital. Our doctors and always available to help you solve your health problems. Click here<br />
+<div class="push" style='height:25px'></div>
+
+		</div>
+	</div>
+	<div class="open services-inside">
+		<div class="services-content-wrapper">
+			<div class="row">
+				
+<a href="#" target="_self" style='font-size: 14px;' class="button vamtam-button accent8  button-border hover-accent1 "><span class="btext">Make an Appointment â†’</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class="wpv-grid grid-1-4  unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-3721d66147050b12ad0899100308da93" ><style scoped>#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed{background:#de0b0b;}#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed p,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed .sep-text h2.regular-title-wrapper,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed .text-divider-double,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed .sep-text .sep-text-line,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed .sep,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed .sep-2,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed .sep-3,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed td,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed th,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed a,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .closed caption{color:#feeaea;}#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open{background:#de0b0b;}#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open p,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open .sep-text h2.regular-title-wrapper,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open .text-divider-double,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open .sep-text .sep-text-line,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open .sep,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open .sep-2,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open .sep-3,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open td,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open th,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open a,#wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3 .open caption{color:#feeaea;}</style>
+<div class="services has-more " id="wpv-expandable-6f7d16401f0137ee1b9c8306f52232d3">
+	<div class="closed services-inside">
+		<div class="services-content-wrapper clearfix">
+			
+			 <div class="push" style='height:10px'></div>
+<span class='icon shortcode  ' style='font-size:26px !important;color:#B5E0FC;'>&#57678;</span>
+<div class="push" style='height:8px'></div>
+<h3><span style="color: #fff;">Emergency Cases</span></h3>
+<div class="push" style='height:13px'></div>
+<h2><span style="color: #99f0de;">+<strong>2348098743571</strong></span></h2>
+<p>For emergencies, please call us on the number above&#8230;<br />
+<div class="push" style='height:25px'></div>
+
+		</div>
+	</div>
+	<div class="open services-inside">
+		<div class="services-content-wrapper">
+			<div class="row">
+				
+<a href="#" target="_self" style='font-size: 14px;' class="button vamtam-button accent8  button-border hover-accent1 "><span class="btext">Call us now â†’</span></a>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div></div></div></div>
+<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first hide-bg-lowres has-background unextended" style="
+				background: url( 'http://www.kingscarehospitals.com/wp-content/uploads/2014/04/about_bgb.png' ) no-repeat center bottom;
+				background-size: auto;
+				background-attachment: scroll;
+			padding-top:30px;padding-bottom:10px" id="wpv-column-eff6f9689028a9f1fefa22ea9c548c00" ><div class="row "><div class="wpv-grid grid-3-5  first unextended animation-from-left animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-e023bb4915dd738766f0072c7fb6aa8a" ><h2>Welcome to Kingscare Hospital Limited</h2>
+<div class="push" style='height:20px'></div>Kingscare Hospital Limited is a classical illustration of turning around dreams and plans into reality. It started off as a mere consultorium but by the mercy and grace of God evolved into what can be described as a private tertiary health facility.</p>
+<p>At Kingscare Hospital Limited, the patient is considered the ultimate priority (i.e Patient is first). Through client patronage, team work and unrelenting dedicated services of the staff, we have witnessed exponential and rapid expansion of services in our facility<br />
+<div class="push" style='height:10px'></div></div></div>
+<div class="row "><div class="wpv-grid grid-1-1  first unextended" style="padding-top:40px;padding-bottom:16px" id="wpv-column-4904722d9c550a176ab14094e8471165" ><div class="row "><div class="wpv-grid grid-1-5  first unextended animation-from-left animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-36aab40753b984de4385821885f5ed43" ><ul style="list-style-type: disc; padding-left: 20px;">
+<li><a href="#">Pharmacy</a></li>
+<li><a href="#">Eye clinic</a></li>
+<li><a href="#">Physiotheraphy</a></li>
+<li><a href="#">Laboratory</a></li>
+<li>Ct scan</li>
+</ul></div>
+<div class="wpv-grid grid-1-5  unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-31ceedeaf88e23a81167b37050403956" ><ul style="list-style-type: disc; padding-left: 20px;">
+<li><a href="#">Intensive care</a></li>
+<li>Mri</li>
+<li><a href="#">Mammogram</a></li>
+<li>Ultra sound</li>
+<li>Dental</li>
+</ul></div>
+<div class="wpv-grid grid-1-5  unextended animation-from-right animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-5e4ba589c0e9d40513576ad1f889ddfc" ><div class="push" style='height:20px'></div> <p class="textcenter"><a href="#" target="_self" style='font-size: 14px;' class="button vamtam-button accent1  button-border hover-accent1 "><span class="btext">Departments â†’</span></a></p></div></div></div></div></div></div>
+<div class="push" style='height:60px'></div>
+<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level parallax-bg first has-background extended" style="
+				background: url( 'http://www.kingscarehospitals.com/wp-content/uploads/2014/04/222234_168430253214623_807134_n.jpg' ) no-repeat center top;
+				background-size: cover;
+				background-attachment: fixed;
+			padding-top:200px;padding-bottom:170px" id="section-moto"  data-parallax-method="to-centre" data-parallax-inertia="-0.3"><div class="extended-column-inner"><h1 style="text-align: center; color: #fff;">A place where everyone is treated, kingly and kindly.We proved comprehensive health care delivery at minimal effective cost. We diagnose, treat disease conditions and counsel patents on healthy living.</h1>
+<h4 style="text-align: center; color: #d0f2fd;">” Kingscare Hospital Limited</h4></div></div></div>
+<div class="push" style='margin-bottom:-20px'></div>
+<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first has-background extended animation-zoom-in animated-active" style="
+				background: url( 'https://health-center.vamtam.com/wp-content/uploads/2014/01/fb_bg_white.png' ) no-repeat center top;
+				background-size: auto;
+				background-attachment: ;
+			padding-top:0px;padding-bottom:0px" id="wpv-column-14b8fe7a4bb35d934927e9fa2e142ebe" ><div class="extended-column-inner"></div></div></div>
+<div class="push" style='height:10px'></div>
+<div class="push" style='height:5px'></div>
+		<h2 class="text-divider-double">			
+Departments		</h2>		<div class="sep"></div>	
+<div class="row "><div class="wpv-grid grid-1-1  wpv-first-level first extended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:20px" id="wpv-column-0d895b495ea6b3c1dbdc10c23b75f8fb" ><div class="extended-column-inner"><div class="row "><div class="wpv-grid grid-1-6  first unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-26eb216d3dcc6d55f071ba4994acfece" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="80" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon12.png" class="attachment-full size-full" alt="icon12" /></div>
+				<div class="last"><h3 style="text-align: center;">Pharmacy</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-7f4f8cc5eca363bf1d8c5fc3f9a11160" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="46" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon5.png" class="attachment-full size-full" alt="icon5" /></div>
+				<div class="last"><h3 style="text-align: center;">Eye clinic</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-b71726dec4b5decaecc4e4c4777a29ca" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="59" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon4.png" class="attachment-full size-full" alt="icon4" /></div>
+				<div class="last"><h3 style="text-align: center;">Physiotheraphy</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-18c9246acc02d1a822a95dd8733ea942" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="47" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon3.png" class="attachment-full size-full" alt="icon3" /></div>
+				<div class="last"><h3 style="text-align: center;">Laboratory</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-3670ac164e0d3509c7dceb756c900181" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="84" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon2.png" class="attachment-full size-full" alt="icon2" /></div>
+				<div class="last"><h3 style="text-align: center;">Intensive care</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-afccdcf882ec5a108a61e8f4329b6b15" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="58" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon1.png" class="attachment-full size-full" alt="icon1" /></div>
+				<div class="last"><h3 style="text-align: center;">Mri</h3></div>
+	</div></div></div>
+<div class="push" style='height:10px'></div>
+<div class="row "><div class="wpv-grid grid-1-6  first unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-a2abef6c47075283a757998ad3a1f9fb" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="58" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon7.png" class="attachment-full size-full" alt="icon7" /></div>
+				<div class="last"><h3 style="text-align: center;">Dental</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-57272384deee072d28d2c89c2d0af205" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="58" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon9.png" class="attachment-full size-full" alt="icon9" /></div>
+				<div class="last"><h3 style="text-align: center;">Mammogram</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-c989849d391c94bd6fa3cebfdf77d531" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="82" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon8.png" class="attachment-full size-full" alt="icon8" /></div>
+				<div class="last"><h3 style="text-align: center;">IVF</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-2f682267e99048041720416fd654aa71" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="63" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon10.png" class="attachment-full size-full" alt="icon10" /></div>
+				<div class="last"><h3 style="text-align: center;">Ultra sound</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-1ffab7efd60d498f3ca67f632cd5574f" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="77" height="82" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon11.png" class="attachment-full size-full" alt="icon11" /></div>
+				<div class="last"><h3 style="text-align: center;">Ct scan</h3></div>
+	</div></div>
+<div class="wpv-grid grid-1-6  unextended animation-fade-in animated-active" style="padding-top:0px;padding-bottom:0px" id="wpv-column-be864ce5020cdcafb6c10f5259fa1cd8" >
+<div  data-href="#" tabindex="1" data-target="_self" class="linkarea clearfix accent4  background-transparent">
+			<div class="first"><img width="80" height="90" src="http://www.kingscarehospitals.com/wp-content/uploads/2014/04/icon12.png" class="attachment-full size-full" alt="icon12" /></div>
+				<div class="last"><h3 style="text-align: center;">Our ward</h3></div>
+	</div></div></div>
+<div class="push" style='height:20px'></div>
+<h6 style="text-align: center;"><a class="wpv-scroll-to-top" href="#">TOP</a>  <span style="color: #9b9b9b;"> | </span><a href="#">VIEW FULL LIST </a></h6></div></div></div>
+<div class="push" style='height:5px'></div>
+											</div>
+
+			
+		</article>
+
+		
+	</div>
+
+					</div> <!-- .limit-wrapper -->
+
+				</div><!-- / #main (do not remove this comment) -->
+
+			</div><!-- #main-content -->
+
+							<footer class="main-footer">
+											<div class="footer-sidebars-wrapper">
+							<div id="footer-sidebars" data-rows="5">
+	<div class="row" data-num="0">
+																<aside class="full  last ">
+									</aside>
+									</div><div class="row" data-num="1">
+																							<aside class="cell-1-4  fit">
+									</aside>
+																							<aside class="cell-1-4  fit">
+					<section id="wpv_posts-6" class="widget wpv_posts"><h4 class="widget-title">Latest news &#038; tips</h4>			<ul class="posts_list clearfix compact">
+									<li>
+						<div class="clearfix">
+														<div class="post_extra_info nothumb">
+								<h6 class="title">
+									<a href="http://www.kingscarehospitals.com/?p=308" rel="bookmark" title="The face you will remember">The face you will remember</a>
+								</h6>
+								<div>
+									June 22, 2013								</div>
+							</div>
+						</div>
+					</li>
+									<li>
+						<div class="clearfix">
+														<div class="post_extra_info nothumb">
+								<h6 class="title">
+									<a href="http://www.kingscarehospitals.com/?p=306" rel="bookmark" title="This is a healthy gallery">This is a healthy gallery</a>
+								</h6>
+								<div>
+									September 10, 2013								</div>
+							</div>
+						</div>
+					</li>
+									<li>
+						<div class="clearfix">
+														<div class="post_extra_info nothumb">
+								<h6 class="title">
+									<a href="http://www.kingscarehospitals.com/?p=298" rel="bookmark" title="Armani spring collection 2009">Armani spring collection 2009</a>
+								</h6>
+								<div>
+									July 27, 2013								</div>
+							</div>
+						</div>
+					</li>
+							</ul>
+
+		</section>				</aside>
+																							<aside class="cell-1-4  fit">
+									</aside>
+																							<aside class="cell-1-4  last fit">
+					<section id="icon-link-3" class="widget wpv_icon_link"><h4 class="widget-title">Stay Connected</h4><ul>
+
+		<li>
+			<a href="https://web.facebook.com/KingsCareHospital/" rel="nofollow" target="_blank" title="Facebook">
+				<span class="icon before " data-icon-type="facebook2">&#58157;</span><span class="content">Facebook</span><span class="icon after">&#58007;</span>
+			</a>
+		</li>
+		<li>
+			<a href="https://twitter.com/kingscareh" rel="nofollow" target="_blank" title="Twitter">
+				<span class="icon before " data-icon-type="twitter2">&#58161;</span><span class="content">Twitter</span><span class="icon after">&#58007;</span>
+			</a>
+		</li>
+		<li>
+			<a href="#" rel="nofollow" target="_blank" title="Google+">
+				<span class="icon before " data-icon-type="googleplus3">&#58153;</span><span class="content">Google+</span><span class="icon after">&#58007;</span>
+			</a>
+		</li>
+		<li>
+			<a href="#" rel="nofollow" target="_blank" title="Pinterest">
+				<span class="icon before " data-icon-type="pinterest">&#58216;</span><span class="content">Pinterest</span><span class="icon after">&#58007;</span>
+			</a>
+		</li>
+</ul>
+
+</section>				</aside>
+										</div>
+</div>						</div>
+									</footer>
+
+				
+									<div class="copyrights">
+						<div class="limit-wrapper">
+							<div class="row">
+								<div class="row "><div class="wpv-grid grid-1-3  wpv-first-level first unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-1eb356430931e7030b8eb0b5e65b7c4e" ><p style="color: #ffffff;">© 2016 - <a href="/">Kingscare Hospital Limited</a> by <a href="https://kingscarehospital.com/" target="_blank">Cloveebiz Limited</a></p></div>
+
+
+<div class="wpv-grid grid-1-3  wpv-first-level unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-53a5a89dcbbcb30052508b73ca3f5981" ><h5 style="color: #ffffff; text-align: center;"><a href="#" class="wpv-scroll-to-top wpv-simple-button-border">↑</a></h5></div>
+
+
+<div class="wpv-grid grid-1-3  wpv-first-level unextended" style="padding-top:0px;padding-bottom:0px" id="wpv-column-ef5f35cf21955726f838084b056332a4" ><p style="color: #ffffff;  text-align: right;">For emergency cases     <span class='icon shortcode theme ' style='font-size:14px !important;color:#B5E0FC;'>&#57382;</span>    <strong>+2348098743571</strong></p></div></div>
+							</div>
+						</div>
+					</div>
+							
+		</div><!-- / .pane-wrapper -->
+
+	</div><!-- / .boxed-layout -->
+</div><!-- / #page -->
+
+<div id="wpv-overlay-search">
+	<form action="http://www.kingscarehospitals.com/" class="searchform" method="get" role="search" novalidate="">
+		<label for="overlay-search-field" class="visuallyhidden">Search for:</label>
+		<input id="overlay-search-field" type="text" required="required" placeholder="Search..." name="s" value="" />
+		<button type="submit" class="icon theme">&#58889;</button>
+			</form>
+</div>
+
+	<div id="feedback-wrapper">
+								<a href="#" id="feedback" class="slideout icon" >&#57353;</a>
+			</div>
+
+<script id='wpvpm-menu-item' type='text/html'><li>
+	<% if(children.length > 0) { %>
+		<a href="#" class="has-children <%= _.escape(classes.join(' ')) %>" title="<%= _.escape(attr_title) %>"><%= title %></a>
+		<div class="mp-level">
+			<div class="mp-level-header">
+				<h2><%= title %></h2>
+				<a class="mp-back" href="#"><%= WpvPushMenu.back %></a>
+			</div>
+			<ul>
+				<% if(! (/^\s*$/.test(url)) ) { %>
+					<li><a href="<%= _.escape(url) %>" class="<%= _.escape(classes.join(' ')) %>" title="<%= _.escape(attr_title) %>"><%= title %></a></li>
+				<% } %>
+				<%= content %>
+			</ul>
+		</div>
+	<% } else { %>
+		<a href="<%= _.escape(url) %>" class="<%= _.escape(classes.join(' ')) %>" title="<%= _.escape(attr_title) %>"><%= title %></a>
+	<% } %>
+</li></script><script id='wpvpm-menu-root' type='text/html'><nav id="mp-menu" class="mp-menu">
+	<ul>
+		<%= content %>
+	</ul>
+</nav>
+</script><script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.kingscarehospitals.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/timetable/js/jquery.ba-bbq.min.js?ver=4.6.12'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/timetable/js/jquery.carouFredSel-6.2.1-packed.js?ver=4.6.12'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/backbone.min.js?ver=1.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WpvPushMenu = {"items":{"title":"Menu","description":"","type":"root","children":[{"url":"http:\/\/www.kingscarehospitals.com\/","title":"Home","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page","current-menu-item","page_item","page-item-7832","current_page_item"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=29","title":"About us","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"title":"Departments","description":"","type":"item","children":[{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=7043","title":"Departments","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8084","title":"Ct scan","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8082","title":"Ultra Sound","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8078","title":"Mammogram","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8076","title":"Dental","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8074","title":"MRI","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8072","title":"EEG and adult intensive care unit","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8070","title":"Laboratory","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8068","title":"Physiotherapy","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8066","title":"Eye clinic","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8059","title":"Pharmacy","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]}]},{"title":"Medical services","description":"","type":"item","children":[{"url":"#","title":"Medical services","attr_title":"","description":"","classes":["","menu-item","menu-item-type-custom","menu-item-object-custom"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8126","title":"Dialysis Unit","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8124","title":"Ophthalmic Care and Eye Clinic","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8122","title":"Pharmaceutical","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8120","title":"Radiological","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8118","title":"Laboratory","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8116","title":"Paediatrics","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8112","title":"Surgeries","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8106","title":"Family Medicine and specialized clinics","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8102","title":"General Health","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8128","title":"Other services","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]}]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=1849","title":"Facility tour","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8211","title":"Gallery","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=7580","title":"Testimonials","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"title":"Branches","description":"","type":"item","children":[{"url":"#","title":"Branches","attr_title":"","description":"","classes":["","menu-item","menu-item-type-custom","menu-item-object-custom"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8214","title":"Kubwa","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=8216","title":"Maraba","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]}]},{"url":"http:\/\/www.kingscarehospitals.com\/?page_id=31","title":"Contact us","attr_title":"","description":"","classes":["","menu-item","menu-item-type-post_type","menu-item-object-page"],"type":"item","children":[]}]},"back":"Back","jspath":"http:\/\/www.kingscarehospitals.com\/wp-content\/plugins\/vamtam-push-menu\/js\/","limit":"959"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/plugins/vamtam-push-menu/js/dist/push-menu.min.js?ver=2.0.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.kingscarehospitals.com\/?page_id=6975","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.kingscarehospitals.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='//www.kingscarehospitals.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.kingscarehospitals.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/themes/health-center/vamtam/assets/js/plugins/thirdparty/jquery.matchheight.min.js?ver=0.5.1'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/themes/health-center/vamtam/assets/js/plugins/thirdparty/jquery.transit.min.js?ver=0.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPV_FRONT = {"content_width":"1260","magnific_close":"Close (Esc)","magnific_loading":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/themes/health-center/vamtam/assets/js/all.min.js?ver=14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//www.kingscarehospitals.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-content/themes/health-center/vamtam/assets/js/plugins/thirdparty/jquery.bxslider.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://www.kingscarehospitals.com/wp-includes/js/wp-embed.min.js?ver=4.6.12'></script>
+<!-- W3TC-include-js-head -->
+</body>
+</html>
